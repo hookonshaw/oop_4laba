@@ -1,0 +1,6 @@
+/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/CMakeFiles/geometry_figures.dir
+/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/CMakeFiles/array_tests.dir
+/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/CMakeFiles/figure_tests.dir
+/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/CMakeFiles/all_tests.dir
+/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/CMakeFiles/edit_cache.dir
+/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/CMakeFiles/rebuild_cache.dir

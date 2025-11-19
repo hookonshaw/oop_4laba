@@ -1,0 +1,5 @@
+if(EXISTS "/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/figure_tests[1]_tests.cmake")
+  include("/Users/uskgg/Desktop/OOP/oop4laba_3sem/build/figure_tests[1]_tests.cmake")
+else()
+  add_test(figure_tests_NOT_BUILT figure_tests_NOT_BUILT)
+endif()
